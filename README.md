@@ -1,6 +1,4 @@
 # git.md
-
-reading-notes
 Git :
 it is a version control system which means everytime you change something in your project it will be recorded with a lot of information such as who commited the edit and when was it meaning you can work togather with your team or you group
 
@@ -20,7 +18,3 @@ Fast
 Scalable
 Remote Repositories
 in order to interact with each others copy of the code, you have to use remote repositories, this is done by the terminal or the command line.
-
-reading-notes maintained by OsaidAlhomedy
-
-Published with GitHub Pages
